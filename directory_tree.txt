@@ -1,0 +1,125 @@
+📂 Directory Tree for: /Volumes/TEAM SSD/RiderProjects/BlazingPizza
+📄 CODE_OF_CONDUCT.md
+📁 wwwroot/
+    📄 favicon.ico
+    📄 styles.css
+    📁 css/
+        📁 bootstrap/
+            📄 bootstrap.min.css
+            📄 bootstrap.min.css.map
+        📄 tailwind.css
+        📄 site.css
+        📁 font/
+            📄 quicksand-v8-latin-regular.woff
+            📄 quicksand-v8-latin-700.woff
+            📄 quicksand.css
+            📄 quicksand-v8-latin-500.woff2
+            📄 quicksand-v8-latin-500.woff
+            📄 quicksand-v8-latin-700.woff2
+            📄 quicksand-v8-latin-300.woff
+            📄 quicksand-v8-latin-300.woff2
+            📄 quicksand-v8-latin-regular.woff2
+    📁 img/
+        📁 pizzas/
+            📄 pepperoni.jpg
+            📄 mushroom.jpg
+            📄 margherita.jpg
+            📄 cheese.jpg
+            📄 brit.jpg
+            📄 salad.jpg
+            📄 bacon.jpg
+            📄 meaty.jpg
+        📄 user.svg
+        📄 bike.svg
+        📄 pizza-slice.svg
+        📄 logo.svg
+        📄 icon-512.png
+📄 tailwind.config.js
+📄 .DS_Store
+📄 dir.py
+📄 LICENSE
+📁 Images/
+    📄 2023-02-23_15h55_09.png
+    📄 2023-02-22_18h05_15.png
+    📄 .DS_Store
+    📄 2023-02-22_12h14_32.png
+    📄 2023-02-22_12h15_16.png
+    📄 2023-02-22_12h14_45.png
+    📄 2023-02-22_12h15_07.png
+    📄 2023-02-23_12h29_53.png
+    📄 2023-02-22_16h01_29.png
+    📄 2023-02-23_15h41_10.png
+    📄 2023-02-24_11h30_24.png
+    📄 2023-02-24_14h44_37.png
+    📄 2023-02-24_12h53_16.png
+📄 appsettings.json
+📄 App.razor
+📁 Shared/
+    📄 AddressEditor.razor
+    📄 MainLayout.razor
+    📄 ConfigurePizzaDialog.razor
+    📄 OrderReview.razor
+📄 README.md
+📁 Components/
+    📄 PaginationComponent.razor
+📄 BlazingPizza.sln
+📄 .gitignore
+📁 Properties/
+    📄 launchSettings.json
+📄 package-lock.json
+📄 package.json
+📄 _Imports.razor
+📁 .github/
+    📄 .DS_Store
+    📁 workflows/
+        📄 dotnet.yml
+📁 Model/
+    📄 Pizza.cs
+    📄 Order.cs
+    📄 PizzaTopping.cs
+    📄 OrderWithStatus.cs
+    📄 Address.cs
+    📄 Topping.cs
+    📄 UserInfo.cs
+    📄 PizzaSpecial.cs
+📄 .gitattributes
+📄 appsettings.Development.json
+📁 Controllers/
+    📄 SpecialsController.cs
+📄 postcss.config.js
+📁 Data/
+    📄 Pizza.cs
+    📄 PizzaStoreContext.cs
+    📄 SeedData.cs
+📁 Pages/
+    📄 OrderDetail.razor
+    📄 _ViewImports.cshtml
+    📄 Error.cshtml
+    📁 Shared/
+        📄 _Layout.cshtml
+        📄 _ValidationScriptsPartial.cshtml
+        📄 _LoginPartial.cshtml
+    📄 Checkout.razor
+    📄 Index.razor
+    📄 Error.cshtml.cs
+    📄 _Host.cshtml
+    📄 MyOrders.razor
+📄 pizza.db-shm
+📁 Services/
+    📄 OrderState.cs
+    📄 OrdersController.cs
+📄 pizza.db
+📄 BlazingPizza.csproj
+📄 SECURITY.md
+📄 pizza.db-wal
+    📁 .idea.BlazingPizza/
+        📁 .idea/
+            📄 indexLayout.xml
+            📄 encodings.xml
+            📁 inspectionProfiles/
+                📄 Project_Default.xml
+            📄 projectSettingsUpdater.xml
+            📄 vcs.xml
+            📄 .gitignore
+            📄 workspace.xml
+📄 Program.cs
